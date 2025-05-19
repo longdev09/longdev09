@@ -3,9 +3,10 @@
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=longdev09&style=for-the-badge&color=0BBE00" alt="Profile Views"/>
-    <a href="https://facebook.com/2002vnd">
-      <img src="https://img.shields.io/badge/Follow%20@2002vnd-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <a href="https://www.facebook.com/long.dev.09">
+      <img src="https://img.shields.io/badge/Follow%20@long.dev.09-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
+    <img src="https://img.shields.io/badge/Last%20Updated-2025--05--19-0BBE00?style=for-the-badge&logo=github&logoColor=white" alt="Last Updated"/>
   </p>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=longdev09&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" width="49%" alt="GitHub Streak"/>
@@ -62,7 +63,7 @@ const nong09 = {
   
   ### 💬 Let's Connect!
   
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:longbachnguyen09dev@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
