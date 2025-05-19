@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0BBE00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World!;I'm+Nong09;Welcome+to+my+profile;%3C3" alt="Typing SVG" />
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=dat911zz&style=for-the-badge&color=0BBE00" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=longdev09&style=for-the-badge&color=0BBE00" alt="Profile Views"/>
     <a href="https://facebook.com/2002vnd">
       <img src="https://img.shields.io/badge/Follow%20@2002vnd-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
   </p>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dat911zz&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" width="49%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=dat911zz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_radius=10" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=longdev09&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=longdev09&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_radius=10" width="49%" alt="GitHub Stats"/>
 </div>
 
 ## 👨‍💻 About Me
@@ -53,7 +53,7 @@ const nong09 = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=dat911zz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=longdev09&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
@@ -66,5 +66,5 @@ const nong09 = {
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dat911zz&bg_color=0D1117&color=5BCDEC&line=0BBE00&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=longdev09&bg_color=0D1117&color=5BCDEC&line=0BBE00&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
 </div>
