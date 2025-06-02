@@ -16,8 +16,8 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const nong09 = {
-  nickname: "Nong09",
+const long09 = {
+  nickname: "Nguyễn Bạch Long",
   education: "Ho Chi Minh City University of Industry and Trade (HUIT)",
   interests: ["Coding", "Learning new tech", "Problem Solving"],
   currentlyLearning: "Always something new!",
